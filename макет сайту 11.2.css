@@ -1,0 +1,23 @@
+body{
+	background-color: red;
+ }
+p{
+font-size: 50px;
+color: white;
+}
+.ex1{
+    font-family: 'Golos Text', sans-serif;
+}
+.ex2{
+	font-family: "Lucida Console", Courier,monospace;
+font-weight: 700;
+}
+.ex3{
+font-family: "Comformer",cursive;
+} 
+.ex4{
+font-family: "Lobster",cursive;
+}
+.ex5{
+font-family: "Rubik Dirt",cursive;
+}

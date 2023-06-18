@@ -1,0 +1,35 @@
+p{
+	font-size: 50px;
+color: red;
+text-align: center;
+}
+table{
+	border: double 2px yellow;
+width: 50%;
+font-size: 24px;
+}
+th{
+	border: solid 2px yellow;
+width: 50%;
+font-size: 24px;
+}
+th,td{
+	border: solid 1px black;
+width: 25%;
+}
+tr:hover{
+	background-color: lightgray;
+}
+td:hover{
+	background-image: url(https://media.tenor.com/KdtU9q5XTkEAAAAC/rainbow.gif);
+background-size: cover;
+
+}
+
+
+
+
+
+
+
+

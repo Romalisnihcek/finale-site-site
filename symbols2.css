@@ -1,0 +1,115 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500&family=Oswald:wght@500&family=Roboto+Slab:wght@900&display=swap');
+</style> 
+body{
+	background-color: darkred;
+}
+p{
+font-size: 50px;
+color: green;
+
+}
+.fs2{
+	font-weight: 900;
+font-variant: small-caps;
+}
+.fs3{
+	font-style: oblique;
+}
+.fs4{
+	font-family: "Gill Sans Extrabold",sans-serif;
+text- transform: uppercase;
+word-spacing: 10px;
+}
+.fs5{
+	font-family: "Lucida Console", Courier,monospace;
+text-transform: lowercase;
+letter-spacing: 5px;
+}
+.fs1{
+	text-transform: capitalize;
+}
+.fs6{
+	text-decoration: underline;
+text-underline-position: under;
+text-decoration-style: wavy;
+}
+.fs7{
+	text-decoration: underline;
+text-underline-position: under;
+text-decoration-style: green;
+text-decoration-line: overline;
+}
+.fs8{
+	text-shadow: 2px -2px orange;
+}
+.fs9{
+	text-shadow:  0 0 10px orange;
+}
+.fs10{
+	text-shadow: 2px -2px red, 4px -4px black;
+}
+span{
+	font-size: 2em;
+font-weight: 700;
+font-family: 'Golos Text', sans-serif;
+text-shadow: 5px -5px green;
+
+
+}
+.fs11{
+	    font-family: 'Oswald', sans-serif;
+text-transform: uppercase;
+word-spacing: 10px;
+}
+.fs12{
+	text-shadow: 2px -2px skyblue, 4px -4px red;
+}
+span{
+	font-size: 2em;
+font-weight: 700;
+font-family: 'Golos Text', sans-serif;
+text-shadow: 10px -10px skyblue; 
+}
+.fs13{
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

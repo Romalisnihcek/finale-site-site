@@ -1,0 +1,23 @@
+body{
+	background-color: white;
+ }
+p{
+font-size: 50px;
+color: yellowgreen;
+}
+.ex1{
+    font-family: 'Golos Text', sans-serif;
+}
+.ex2{
+	font-family: "Lucida Console", Courier,monospace;
+font-weight: 700;
+}
+.ex3{
+font-family: 'Golos Text', cursive;
+} 
+.ex4{
+font-family: 'Golos Text', cursive;
+}
+.ex5{
+font-family: 'Golos Text', cursive;
+}

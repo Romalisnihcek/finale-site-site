@@ -1,0 +1,82 @@
+p{
+	border: solid 10px purple;
+font-size: 50px;
+display: inline;
+}
+span{
+	border: dotted 5px gold;
+display: block;
+}
+li:hover{
+	background-color: lightgoldenrodyellow;
+}
+div{
+	border: double 10px fuchsia;
+width: 300px;
+height: 300px;
+margin-left: 100px;
+padding: 100px;
+}
+
+#second{
+	width: 500px;
+height: 500px;
+border: ridge 10px aquamarine;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 100px;
+}
+
+#third{
+width: 500px;
+height: 500px;
+border: groove 10px blanchedalmond;
+
+}
+
+#fourth#fifth{
+background-color: lightgoldenrodyellow;
+width: 200px;
+height: 200px;
+border: dotted 5px gold;
+}
+#fourth{
+	border-top dotted 5px purple;
+border-bottom: dotted 10px red;
+}
+#fifth{
+	border-left: dotted 10px black;
+border-right: dotted 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
